@@ -1,0 +1,66 @@
+body {
+		background-image: url(../images/dark_embroidery.png);
+		font-size: 20px;
+	}
+	h1 {
+		background-color: #cd5c5c;
+		width: 300px;
+	}
+	.targetNumber{
+	float: left;
+	border: 1px solid #1e90ff;
+	background-color: #1e90ff;
+	width: 200px;
+	height: 75px;
+	font-size: 22px;
+	padding: 5px;
+	text-align: center;
+	margin-left: 15px;
+    }
+	#crystal1 {
+		float: left;
+		padding-top: 12px;
+		padding-left: 24px;
+		padding-bottom: 12px;
+	}
+	#crystal2 {
+		float: left;
+		padding-top: 12px;
+		padding-left: 12px;
+		padding-bottom: 12px;
+	}
+	#crystal3 {
+		float: left;
+		padding-top: 12px;
+		padding-left: 12px;
+		padding-bottom: 12px;
+	}
+	#crystal4 {
+		float: left;
+		padding-top: 12px;
+		padding-left: 12px;
+		padding-bottom: 12px;
+	}
+	.wrapper {
+		background-color: #fffafa;
+		width: 400px;
+		padding: 5px;
+		
+	}
+	p {
+		background-color: #fffafa;
+		
+	}
+	.score-wrapper {
+		background-color: #eedd82;
+		padding: 5px;
+		width: 200px;
+		float: left;
+		height: 75px;
+		padding-left: 10px;
+		
+		
+	}
+	#current-total {
+		height: 50px;
+		font-size: 22px;
